@@ -505,7 +505,7 @@
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "pihat-breakout-pcb.step",
+      "step": "3Dmodel/PiHatRev1.5.step",
       "svg": "",
       "vrml": ""
     },
